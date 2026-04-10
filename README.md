@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FuelEU Maritime Compliance Platform
 
 ## Overview
@@ -106,3 +107,7 @@ Response (sample):
 
 ## Screenshots
 - Not included yet.
+=======
+# fueleu-maritime-dashboard
+FuelEU Maritime Full Stack Compliance System
+>>>>>>> 8b6da8862bdaab4c097bafbbc6865c70591f23af
