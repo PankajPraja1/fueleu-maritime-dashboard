@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build outputs
+dist/
+build/
+
+# env files
+.env
+
+# logs
+*.log
+
+# prisma generated client (optional but recommended)
+backend/node_modules/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
